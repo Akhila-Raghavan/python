@@ -1,0 +1,9 @@
+one line answer
+
+A  reverse i search is used to serach backword ,starting at current line and moving up through the history as neccessary.its an incremental search
+
+B  ls -a  show the hidden files 
+
+C I commonly used window os , dont have much knowledege in linux ,but I am ready to use linux and try to learn it
+
+D  No I didn't host any web applications
